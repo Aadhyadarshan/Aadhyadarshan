@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Aadhya 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Tech+Explorer+%7C+Open+Source+Contributor;Loves+building+cool+projects+💻" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👩‍🎓 About Me
