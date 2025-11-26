@@ -3,7 +3,7 @@
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 Software Engineering student at **PES University**
+- 🎓 Computer Science Engineering student at **PES University**
 - 🎯 Passionate about building practical, impactful tech
 - 💡 Exploring **AI**, **Web Development**, and **Cloud**
 - 💬 Ask me about GitHub, React, Python, or Developer Tools
